@@ -46,7 +46,7 @@
   ✔ Github <img src="https://github.com/fluidicon.png" alt="GitHub" height="20" width="20"><br>
   &#8987; VueJS <img src="https://br.vuejs.org/images/logo.png" alt="Vuejs" height="20" width="20"><br>
   &#8987; React <img src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png" alt="React" height="20" width="20"><br>
-  &#8987; Phyton <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" alt="Phyton" height="20" width="20"><br>
+  &#8987; Python <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" alt="Phyton" height="20" width="20"><br>
   &#8987; Rust <img src="https://www.arewewebyet.org/rust.png" alt="Rust" height="20" width="20"><br>
   &#8987; Ruby <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/1200px-Ruby_logo.svg.png" alt="Ruby" height="20" width="20"><br>
   &#8987; MySQL <img src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" alt="MySQL" height="20" width="20"><br>
